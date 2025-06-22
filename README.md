@@ -1,2 +1,58 @@
-## Hello ! 👋
+### Hi there 👋 I'm Rafi Isnaen
+
+I'm a Computer Science student at Binus University from Indonesia 🇮🇩  
+Currently exploring the fascinating world of software development and AI.  
+Passionate about how software is built, shipped, and scaled properly — from idea to delivery 🚀
+
+---
+
+#### 💻 Tech Stack
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Frameworks & Libraries:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+#### 🔧 Personal Projects
+Here are some repositories I’ve worked on:
+- [tunaskarsa-prototype](https://github.com/rafiisnaen/tunaskarsa-prototype)
+- [MightDragon](https://github.com/rafiisnaen/MightDragon)
+- [SocMedVirtualAssistant](https://github.com/rafiisnaen/SocMedVirtualAssistant)
+- [B-ALL_Detection](https://github.com/rafiisnaen/B-ALL_Detection)
+
+---
+
+#### 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rafiisnaen)
+- 📧 Email: muhammadrafiisnaen@gmail.com
+
+---
+
+#### 🎯 Goals
+I’m on a journey to deepen my understanding in:
+- **Software Development**
+- **AI Engineering**
+
+---
+
 <img alt = "top langs" align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact"/>
+
+---
+
+![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiisnaen&show_icons=true&theme=default&hide_title=true)
