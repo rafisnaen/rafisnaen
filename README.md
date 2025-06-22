@@ -32,8 +32,8 @@
 ---
 
 #### 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rafiisnaen)
-- 📧 Email: muhammadrafiisnaen@gmail.com
+- 🌐 LinkedIn: [Rafi Isnaen](https://www.linkedin.com/in/rafiisnaen)
+- 📧 Email   : muhammadrafiisnaen@gmail.com
 
 ---
 
