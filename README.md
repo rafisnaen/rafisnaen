@@ -51,9 +51,8 @@ I’m on a journey to deepen my understanding in:
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact" alt="Top Languages"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats"/>
 </div>
-<br>
 
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafisnaen&theme=default" alt="GitHub Streak"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
