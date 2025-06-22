@@ -48,11 +48,12 @@ I’m on a journey to deepen my understanding in:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact" alt="Top Languages"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact&theme=radical" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
 </div>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
