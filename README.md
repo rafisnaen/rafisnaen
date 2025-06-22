@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Rafi Isnaen
-
-I'm a Computer Science student at Binus University from Indonesia 🇮🇩  
-Currently exploring the fascinating world of software development and AI.  
-Passionate about how software is built, shipped, and scaled properly — from idea to delivery 🚀
+<h1 align="center">Hi there 👋 I'm Rafi Isnaen</h1>
+  <p align="center">
+    I'm a Computer Science student at Binus University from Indonesia 🇮🇩<br>
+    Currently exploring the fascinating world of software development and AI.<br>
+    Passionate about how software is built, shipped, and scaled properly — from idea to delivery 🚀
+</p>
 
 ---
 
@@ -29,30 +30,28 @@ Passionate about how software is built, shipped, and scaled properly — from id
 
 ---
 
-#### 🔧 Personal Projects
-Here are some repositories I’ve worked on:
-- [tunaskarsa-prototype](https://github.com/rafiisnaen/tunaskarsa-prototype)
-- [MightDragon](https://github.com/rafiisnaen/MightDragon)
-- [SocMedVirtualAssistant](https://github.com/rafiisnaen/SocMedVirtualAssistant)
-- [B-ALL_Detection](https://github.com/rafiisnaen/B-ALL_Detection)
-
----
-
 #### 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rafiisnaen)
 - 📧 Email: muhammadrafiisnaen@gmail.com
 
 ---
 
-#### 🎯 Goals
+### 🎯 Goals
+
 I’m on a journey to deepen my understanding in:
-- **Software Development**
+- **Web Development**
 - **AI Engineering**
 
 ---
 
-<img alt = "top langs" align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact"/>
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats"/>
+</div>
 
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiisnaen&show_icons=true&theme=default&hide_title=true)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rafisnaen&theme=default" alt="GitHub Streak"/>
+</p>
