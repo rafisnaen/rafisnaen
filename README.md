@@ -55,5 +55,5 @@ I’m on a journey to deepen my understanding in:
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
 </p>
