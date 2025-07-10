@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=react&logoColor=white)
 
 **Frameworks & Libraries:**
 
