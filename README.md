@@ -7,7 +7,7 @@
 
 ---
 
-#### 💻 Tech Stack
+#### 💻 Core Tech Stack
 
 **Languages:**
 
@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=react&logoColor=white)
 
-**Frameworks & Libraries:**
+**Core Frameworks & Libraries:**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
