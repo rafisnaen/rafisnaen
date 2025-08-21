@@ -16,8 +16,9 @@
 ### 🎯 Goals
 
 I’m on a journey to deepen my understanding in:
-- **Web Development**
-- **AI Engineering**
+
+- **AI Engineering** 🤖
+- **Web Development** 🌐
 
 ---
 
