@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Rafi Isnaen</h1>
   <p align="center">
     I'm a Computer Science student at Binus University from Indonesia 🇮🇩<br>
-    Currently exploring the world of AI and Software Development<br>
-    Passionate about how AI and software is built, shipped, and scaled properly 🚀
+    Currently exploring the world of AI and Software Development 🚀<br>
 </p>
 
 ---
