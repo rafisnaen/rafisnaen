@@ -17,7 +17,7 @@
 I’m on a journey to deepen my understanding in:
 
 - **AI Engineering** 🤖
-- **Web 3 Development** 🌐
+- **Web Development** 🌐
 
 ---
 
