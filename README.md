@@ -6,12 +6,6 @@
 
 ---
 
-#### 📫 Connect with Me
-- 🌐 LinkedIn: [Rafi Isnaen](https://www.linkedin.com/in/rafiisnaen)
-- 📧 Email   : muhammadrafiisnaen@gmail.com
-
----
-
 ### 🎯 Goals
 
 I’m on a journey to deepen my understanding in:
