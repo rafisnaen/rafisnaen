@@ -17,6 +17,7 @@ I’m on a journey to deepen my understanding in:
 
 ### 📊 GitHub Stats
 <div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=70502942" target="_blank" style="display: block" align="center">
