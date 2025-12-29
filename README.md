@@ -17,13 +17,9 @@ I’m on a journey to deepen my understanding in:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisnaen&layout=compact&theme=radical" alt="Top Languages"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rafisnaen&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-</div>
-
----
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafisnaen&theme=radical&hide_border=false" alt="GitHub Streak" /></a>
-</p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68158429" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68158429&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @FForFachriza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68158429&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
