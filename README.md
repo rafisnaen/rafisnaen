@@ -10,8 +10,8 @@
 
 I’m on a journey to deepen my understanding in:
 
-- **AI Engineering** 🤖
 - **Software Engineering & Web Development** 🌐
+- **AI Engineering** 🤖
 
 ---
 
